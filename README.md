@@ -8,4 +8,4 @@ It now includes steps for GitHub.
 
 It is update again.
 
-It is update again and again and again.
+It is update again and again and again...
